@@ -40,11 +40,7 @@ export default class App extends Component {
 }
 
 const styles = StyleSheet.create({
-button: {
-    alignItems: 'center',
-    backgroundColor: '#DDDDDD',
-    padding: 10
-  },container: {
+container: {
     margin: 50,
     flex: 1,
     justifyContent: 'center',
